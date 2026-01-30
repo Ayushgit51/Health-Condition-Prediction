@@ -32,7 +32,8 @@ These metrics measure overall correctness and the model’s ability to correctly
 
 ## Best Performing Model
 
-The **AdaBoost Classifier** achieved the highest performance among all evaluated models With:
+The **AdaBoost Classifier** achieved the highest performance among all evaluated models with:
+
 Accuracy of Model: 95.07853403141361 %
 Recall of Model: 94.85148514851485 %
 
