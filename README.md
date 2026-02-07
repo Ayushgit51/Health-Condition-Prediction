@@ -47,6 +47,6 @@ base_model_dts = DecisionTreeClassifier(
     min_samples_split=15
 )
 
-### Author
-Ayush Kumar
-Data Scientist and AI/ML aspirant 
+## Author
+Ayush Kumar  
+Data Science and Machine Learning Enthusiast
